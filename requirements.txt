@@ -1,0 +1,4 @@
+aws-cdk-lib==2.41.0
+constructs
+boto3
+botocore
